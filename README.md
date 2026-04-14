@@ -19,8 +19,11 @@ Features
 Installation
 
 git clone <https://github.com/dev-echo-echo/reco.git>
+
 cd reco
+
 chmod +x install.sh
+
 ./install.sh
 
 Make sure this directory is in your PATH:
